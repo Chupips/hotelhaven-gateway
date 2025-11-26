@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // 👇 ADICIONE ESTA LINHA (substitua pelo nome exato do seu repo)
-  base: "/NOME-DO-SEU-REPOSITORIO/",
+  base: "/hotelhaven-gateway/",
 
   server: {
     host: "::",
